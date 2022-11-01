@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qq-s20=b1rud7ub5pv$_^hc#hasll)wf&oeo1vslp-jq-r$7wi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://tofunmi-personal-info.herokuapp.com',
+ALLOWED_HOSTS = ['tofunmi-personal-info.herokuapp.com',
                  '127.0.0.1',
 ]
 
